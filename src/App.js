@@ -6,7 +6,7 @@ import TodoBoard from "./components/TodoBoard";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Container from "react-bootstrap/Container";
-import todoItem from '../src/components/TodoBoard'
+// import todoItem from '../src/components/TodoBoard'
 
 function App() {
 
